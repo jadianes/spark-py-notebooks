@@ -26,6 +26,12 @@ calling IPython/pySpark.
 
 We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html).
 
+## References
+
+The reference book for these and other Spark related topics is:  
+
+- *Learning Spark* by Holden Karau, Andy Konwinski, Patrick Wendell, and Matei Zaharia.  
+
 ## Notebooks  
 
 The following notebooks can be examined individually, although there is a more
