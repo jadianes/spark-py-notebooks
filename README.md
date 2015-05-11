@@ -32,5 +32,8 @@ We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databas
 2. [RDDs basics](nb2-rdd-basics/nb2-rdd-basics.ipynb): map, filter, collect.  
 3. More on RDDs: the rest.  
 4. Working with key-value pairs.  
+5. MLlib: data types and basic statistics.  
+6. MLlib: Classification.  
+7. MLlib: Clustering and PCA.  
 
 
