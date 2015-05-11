@@ -24,8 +24,8 @@ We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databas
 
 ## Notebooks  
 
-1. [RDD creation](http://nbviewer.ipython.org/github/jadianes/spark-py-notebooks/blob/master/nb1-rdd-creation/nb1-rdd-creation.ipynb): reading files and parallelize.  
-2. [RDDs basics](http://nbviewer.ipython.org/github/jadianes/spark-py-notebooks/blob/master/nb2-rdd-basics/nb2-rdd-basics.ipynb): map, filter, collect.  
+1. [RDD creation](nb1-rdd-creation/nb1-rdd-creation.ipynb): reading files and parallelize.  
+2. [RDDs basics](nb2-rdd-basics/nb2-rdd-basics.ipynb): map, filter, collect.  
 3. More on RDDs: the rest.  
 4. Working with key-value pairs.  
 
