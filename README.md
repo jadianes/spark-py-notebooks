@@ -46,10 +46,18 @@ About reading files and parallelize.
 
 A look at `map`, `filter`, and `collect`.  
   
-### [More on RDDs](nb3-rdd-more/nb3-rdd-more.ipynb)  
+### [Sampling RDDs](nb3-rdd-sampling/nb3-rdd-sampling.ipynb)  
 
-The rest of transformations and actions. Sampling methods explained.    
+RDD sampling methods explained.    
   
+### RDD set operations  
+
+RDD pseudo-set transformations explained.  
+
+### Reducing and folding RDDs  
+
+RDD actions `reduced` and `fold`.   
+
 ### Working with key-value pairs  
   
 ### MLlib I  
