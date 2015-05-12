@@ -52,7 +52,7 @@ RDD sampling methods explained.
   
 ### [RDD set operations](nb4-rdd-set/nb4-rdd-set.ipynb)    
 
-RDD pseudo-set transformations explained.  
+Brief introduction to some of the RDD pseudo-set operations.  
 
 ### Reducing and folding RDDs  
 
