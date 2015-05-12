@@ -50,7 +50,7 @@ A look at `map`, `filter`, and `collect`.
 
 RDD sampling methods explained.    
   
-### RDD set operations  
+### [RDD set operations](nb4-rdd-set/nb4-rdd-set.ipynb)    
 
 RDD pseudo-set transformations explained.  
 
