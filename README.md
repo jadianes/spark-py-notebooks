@@ -48,7 +48,7 @@ A look at `map`, `filter`, and `collect`.
   
 ### [More on RDDs](nb3-rdd-more/nb3-rdd-more.ipynb)  
 
-The rest of transformations and actions.  
+The rest of transformations and actions. Sampling methods explained.    
   
 ### Working with key-value pairs  
   
