@@ -1,7 +1,7 @@
 # Spark IPython Notebooks  
 
 This is a collection of IPython notebooks intended to train the reader
-in different Spark concepts, from basic to advanced, by using the Python
+on different Spark concepts, from basic to advanced, by using the Python
 language.  
 
 ## Instructions  
