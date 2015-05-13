@@ -56,7 +56,7 @@ Brief introduction to some of the RDD pseudo-set operations.
 
 ### [Reducing and folding RDDs](nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
 
-RDD actions `reduce`, `fold`, and 'aggregate'.   
+RDD actions `reduce`, `fold`, and `aggregate`.   
 
 ### Working with key-value pairs  
   
