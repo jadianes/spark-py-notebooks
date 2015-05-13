@@ -54,9 +54,9 @@ RDD sampling methods explained.
 
 Brief introduction to some of the RDD pseudo-set operations.  
 
-### Reducing and folding RDDs  
+### [Reducing and folding RDDs](nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
 
-RDD actions `reduced` and `fold`.   
+RDD actions `reduce`, `fold`, and 'aggregate'.   
 
 ### Working with key-value pairs  
   
