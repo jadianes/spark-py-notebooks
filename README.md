@@ -58,7 +58,9 @@ Brief introduction to some of the RDD pseudo-set operations.
 
 RDD actions `reduce`, `fold`, and `aggregate`.   
 
-### Working with key-value pairs  
+### [Working with key/value pair RDDs](nb6-rdd-key-value/nb6-rdd-key-value.ipynb)    
+
+How to work with key/value pairs in order to aggregate and explore data.  
   
 ### MLlib I  
 
