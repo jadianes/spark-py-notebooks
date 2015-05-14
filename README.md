@@ -64,7 +64,7 @@ How to work with key/value pairs in order to aggregate and explore data.
   
 ### MLlib I  
 
-Data types and basic statistics.  
+Basic statistics.  
   
 ### MLlib II   
 
