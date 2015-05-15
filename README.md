@@ -62,16 +62,16 @@ RDD actions `reduce`, `fold`, and `aggregate`.
 
 How to work with key/value pairs in order to aggregate and explore data.  
   
-### MLlib I  
+### MLlib: Statistics    
 
 Basic statistics.  
   
-### MLlib II   
+### [MLlib: Classification](nb8-mllib-classification/nb8-mllib-classification.ipynb)     
 
-Classification.  
+Logistic Regression classification of network attacks in MLlib.  
 
-### MLlib III   
+### MLlib: Clustering and anomality detection   
 
-Clustering and PCA.  
+K-means clustering for anomality detection.  
 
 
