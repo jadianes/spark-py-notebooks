@@ -70,6 +70,11 @@ Basic statistics.
 
 Logistic Regression classification of network attacks in MLlib.  
 
+
+### Tree-based methods and variable selection  
+
+Use of three-based methods and how they help selecting predictors.  
+
 ### MLlib: Clustering and anomality detection   
 
 K-means clustering for anomality detection.  
