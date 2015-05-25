@@ -83,4 +83,6 @@ K-means clustering for anomality detection.
 
 Basics of Spark streaming API.  
 
+### Streaming: usage with MLlib  
 
+Usage of Spark streaming API together with MLlib (e.g. incremental data clustering).  
