@@ -79,4 +79,8 @@ Use of three-based methods and how they help selecting predictors.
 
 K-means clustering for anomality detection.  
 
+### Streaming: basics  
+
+Basics of Spark streaming API.  
+
 
