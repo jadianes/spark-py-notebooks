@@ -64,11 +64,11 @@ How to work with key/value pairs in order to aggregate and explore data.
   
 ### [MLlib: Statistics](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
-Basic statistics.  
+The Local Vector type and basic statistics in MLlib.  
   
 ### [MLlib: Classification](nb8-mllib-classification/nb8-mllib-classification.ipynb)     
 
-Logistic Regression classification of network attacks in MLlib.  
+Labeled points and Logistic Regression classification of network attacks in MLlib.  
 
 
 ### MLlib: Tree-based methods and variable selection  
