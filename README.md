@@ -62,7 +62,7 @@ RDD actions `reduce`, `fold`, and `aggregate`.
 
 How to work with key/value pairs in order to aggregate and explore data.  
   
-### MLlib: Statistics    
+### [MLlib: Statistics](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
 Basic statistics.  
   
