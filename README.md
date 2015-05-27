@@ -64,7 +64,8 @@ How to work with key/value pairs in order to aggregate and explore data.
   
 ### [MLlib: Statistics](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
-Local Vector types and basic statistics in MLlib.  
+Local Vector types and basic statistics in MLlib for Exploratory Data Analysis 
+and a bit of model selection.  
   
 ### [MLlib: Classification](nb8-mllib-classification/nb8-mllib-classification.ipynb)     
 
