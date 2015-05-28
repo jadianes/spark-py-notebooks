@@ -54,13 +54,13 @@ RDD sampling methods explained.
 
 Brief introduction to some of the RDD pseudo-set operations.  
 
-### [Reducing and folding RDDs](nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
+### [Data aggregations on RDDs](nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
 
 RDD actions `reduce`, `fold`, and `aggregate`.   
 
 ### [Working with key/value pair RDDs](nb6-rdd-key-value/nb6-rdd-key-value.ipynb)    
 
-How to work with key/value pairs in order to aggregate and explore data.  
+How to deal with key/value pairs in order to aggregate and explore data.  
   
 ### [MLlib: Basic Statistics and Exploratory Data Analysis](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
