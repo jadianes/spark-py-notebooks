@@ -62,7 +62,7 @@ RDD actions `reduce`, `fold`, and `aggregate`.
 
 How to work with key/value pairs in order to aggregate and explore data.  
   
-### [MLlib: Statistics](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
+### [MLlib: Basic Statistics and Exploratory Data Analysis](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
 Local Vector types and basic statistics in MLlib for Exploratory Data Analysis 
 and a bit of model selection.  
