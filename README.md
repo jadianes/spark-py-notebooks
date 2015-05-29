@@ -65,13 +65,12 @@ How to deal with key/value pairs in order to aggregate and explore data.
 ### [MLlib: Basic Statistics and Exploratory Data Analysis](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
 A rather extensive notebook introducing Local Vector types, basic statistics 
-in MLlib for Exploratory Data Analysis and of model selection, together with
+in MLlib for Exploratory Data Analysis and  model selection, together with
  Hypothesis Testing.  
   
 ### [MLlib: Classification](nb8-mllib-classification/nb8-mllib-classification.ipynb)     
 
 Labeled points and Logistic Regression classification of network attacks in MLlib.  
-
 
 ### MLlib: Tree-based methods and variable selection  
 
