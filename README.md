@@ -72,7 +72,7 @@ in MLlib for Exploratory Data Analysis and model selection.
 Labeled points and Logistic Regression classification of network attacks in MLlib.
 Application of model selection techniques using correlation matrix and Hypothesis Testing.    
 
-### [MLlib: Decsision Trees](nb9-mllib-trees/nb9-mllib-trees.ipynb)  
+### [MLlib: Decision Trees](nb9-mllib-trees/nb9-mllib-trees.ipynb)  
 
 Use of three-based methods and how they help explaining models and
  feature selection.  
