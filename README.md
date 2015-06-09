@@ -81,6 +81,11 @@ Use of three-based methods and how they help explaining models and
 
 K-means clustering for anomality detection.  
 
+### Spark SQL: structured processing for Data Analysis  
+
+In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
+Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
+
 ### Streaming: basics  
 
 Basics of Spark streaming API.  
