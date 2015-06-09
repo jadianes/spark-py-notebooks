@@ -38,41 +38,41 @@ The following notebooks can be examined individually, although there is a more
 or less linear 'story' when followed in sequence. By using the same dataset
 they try to solve a related set of tasks with it.  
  
-### [RDD creation](nb1-rdd-creation/nb1-rdd-creation.ipynb)  
+### [RDD creation](https://github.com/jadianes/spark-py-notebooks/nb1-rdd-creation/nb1-rdd-creation.ipynb)  
 
 About reading files and parallelize.  
   
-### [RDDs basics](nb2-rdd-basics/nb2-rdd-basics.ipynb)
+### [RDDs basics](https://github.com/jadianes/spark-py-notebooks/nb2-rdd-basics/nb2-rdd-basics.ipynb)
 
 A look at `map`, `filter`, and `collect`.  
   
-### [Sampling RDDs](nb3-rdd-sampling/nb3-rdd-sampling.ipynb)  
+### [Sampling RDDs](https://github.com/jadianes/spark-py-notebooks/nb3-rdd-sampling/nb3-rdd-sampling.ipynb)  
 
 RDD sampling methods explained.    
   
-### [RDD set operations](nb4-rdd-set/nb4-rdd-set.ipynb)    
+### [RDD set operations](https://github.com/jadianes/spark-py-notebooks/nb4-rdd-set/nb4-rdd-set.ipynb)    
 
 Brief introduction to some of the RDD pseudo-set operations.  
 
-### [Data aggregations on RDDs](nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
+### [Data aggregations on RDDs](https://github.com/jadianes/spark-py-notebooks/nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb)  
 
 RDD actions `reduce`, `fold`, and `aggregate`.   
 
-### [Working with key/value pair RDDs](nb6-rdd-key-value/nb6-rdd-key-value.ipynb)    
+### [Working with key/value pair RDDs](https://github.com/jadianes/spark-py-notebooks/nb6-rdd-key-value/nb6-rdd-key-value.ipynb)    
 
 How to deal with key/value pairs in order to aggregate and explore data.  
   
-### [MLlib: Basic Statistics and Exploratory Data Analysis](nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
+### [MLlib: Basic Statistics and Exploratory Data Analysis](https://github.com/jadianes/spark-py-notebooks/nb7-mllib-statistics/nb7-mllib-statistics.ipynb)    
 
 A notebook introducing Local Vector types, basic statistics 
 in MLlib for Exploratory Data Analysis and model selection.  
   
-### [MLlib: Logistic Regression](nb8-mllib-logit/nb8-mllib-logit.ipynb)     
+### [MLlib: Logistic Regression](https://github.com/jadianes/spark-py-notebooks/nb8-mllib-logit/nb8-mllib-logit.ipynb)     
 
 Labeled points and Logistic Regression classification of network attacks in MLlib.
 Application of model selection techniques using correlation matrix and Hypothesis Testing.    
 
-### [MLlib: Decision Trees](nb9-mllib-trees/nb9-mllib-trees.ipynb)  
+### [MLlib: Decision Trees](https://github.com/jadianes/spark-py-notebooks/nb9-mllib-trees/nb9-mllib-trees.ipynb)  
 
 Use of three-based methods and how they help explaining models and
  feature selection.  
