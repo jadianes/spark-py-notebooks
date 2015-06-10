@@ -77,14 +77,14 @@ Application of model selection techniques using correlation matrix and Hypothesi
 Use of three-based methods and how they help explaining models and
  feature selection.  
 
-### MLlib: Clustering and anomality detection   
-
-K-means clustering for anomality detection.  
-
 ### Spark SQL: structured processing for Data Analysis  
 
 In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
+
+### MLlib: Clustering and anomality detection  
+
+K-means clustering for anomality detection.  
 
 ### Streaming: basics  
 
