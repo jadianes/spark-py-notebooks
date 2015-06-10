@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 10 10:15:43 BST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-014d-dcc0-f7a9-00001633df30 
+on database directory /nfs/programs/spark-py-notebooks/nb10-sql-dataframes/metastore_db with class loader sun.misc.Launcher$AppClassLoader@489bb457 
+Loaded from file:/home/cluster/spark-1.3.1-bin-hadoop2.6/lib/spark-assembly-1.3.1-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_75-b13
+user.dir=/nfs/programs/spark-py-notebooks/nb10-sql-dataframes
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
