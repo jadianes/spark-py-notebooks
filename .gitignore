@@ -2,3 +2,5 @@ ipython_notebook_spark.out
 *.gz
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
+**/metastore_db/
+**/derby.log
