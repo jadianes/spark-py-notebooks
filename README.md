@@ -77,7 +77,7 @@ Application of model selection techniques using correlation matrix and Hypothesi
 Use of three-based methods and how they help explaining models and
  feature selection.  
 
-### Spark SQL: structured processing for Data Analysis  
+### [Spark SQL: structured processing for Data Analysis](https://github.com/jadianes/spark-py-notebooks/blob/master/nb10-sql-dataframes/nb10-sql-dataframes.ipynb)  
 
 In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
