@@ -24,7 +24,8 @@ calling IPython/pySpark.
  
 ## Datasets  
 
-We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html).
+We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html). The results 
+of this competition can be found [here](http://cseweb.ucsd.edu/~elkan/clresults.html).  
 
 ## References
 
