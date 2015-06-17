@@ -82,9 +82,9 @@ Use of three-based methods and how they help explaining models and
 In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
 
-### MLlib: Clustering and anomality detection  
+### MLlib: Clustering  
 
-K-means clustering for anomality detection.  
+K-means clustering for exploratory data analysis and network attack detection.  
 
 ### Streaming: basics  
 
