@@ -4,7 +4,7 @@ This Apache Spark tutorial will guide you step-by-step into how to use the [Movi
 
 This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Neither the use of this dataset nor the use of this algorithm are new (I recommend you for example this [EdX course](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x) or [Google](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=movielens%20dataset%20collaborative%20filtering)), and this is because we put the emphasis on ending up with a usable model in an on-line environment, and how to use it in different situations. The second part of the tutorial explains how to use Python/Flask for building a web-service on top of Spark models. By doing so, you will be able to develop a complete **on-line movie recommendation service**.  
 
-- Part I: [Building the recommender](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/building-recommender.ipynb)  
+## Part I: [Building the recommender](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/building-recommender.ipynb)  
 
-- Part II: [Building and running the web service](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/online-recommendations.ipynb)  
+## Part II: [Building and running the web service](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/online-recommendations.ipynb)  
 
