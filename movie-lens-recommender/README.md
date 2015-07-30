@@ -8,3 +8,13 @@ This tutorial can be used independently to build a movie recommender model based
 
 ## Part II: [Building and running the web service](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/online-recommendations.ipynb)  
 
+## Quick start  
+
+The file `server/server.py` starts a [CherryPy](http://www.cherrypy.org/) server running a 
+[Flask](http://flask.pocoo.org/) `app.py` to start a RESTful
+web server wrapping a Spark-based `engine.py` context. Through its API we can 
+perform on-line movie recommendations.  
+
+Please, refer the the [second notebook](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/notebooks/online-recommendations.ipynb) for detailed instructions on how to run and use the service.  
+
+
