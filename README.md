@@ -93,4 +93,14 @@ Basics of Spark streaming API.
 
 ### Streaming: usage with MLlib  
 
-Usage of Spark streaming API together with MLlib (e.g. incremental data clustering).  
+Usage of Spark streaming API together with MLlib (e.g. incremental data clustering). 
+
+## Applications  
+
+Beyond the basics. Close to real-world applications using Spark and other technologies.  
+
+### [An on-line movie recommendation service using Spark & Flask](https://github.com/jadianes/spark-py-notebooks/blob/master/movie-lens-recommender/online-recommendations.ipynb)  
+
+A two part tutorial + Python scripts to run your own scalable movie recommendation service using Spark and Flask.  
+
+
