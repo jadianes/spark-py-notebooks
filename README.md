@@ -103,4 +103,13 @@ Beyond the basics. Close to real-world applications using Spark and other techno
 
 A two part tutorial + Python scripts to run your own scalable movie recommendation service using Spark and Flask.  
 
+### [Olssen: On-line Spectral Search ENgine for proteomics](http://olssen.github.io/)  
+
+Same tech stack this time with an AngularJS client app.  
+
+### [KDD Cup 1999](https://github.com/jadianes/kdd-cup-99-spark)  
+
+My try using Spark with this classic dataset and Knowledge Discovery competition.  
+
+
 
