@@ -4,6 +4,10 @@ This is a collection of IPython notebooks intended to train the reader
 on different Spark concepts, from basic to advanced, by using the Python
 language.  
 
+If your are interested in more basic concepts related with Data Science 
+Engineering, you might find these series of tutorials interesting. There 
+we explain different concepts and applications using Python and R.  
+
 ## Instructions  
 
 A good way of using these notebooks is by first cloning the repo, and then 
