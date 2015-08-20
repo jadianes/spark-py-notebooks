@@ -1,13 +1,24 @@
 # Spark Python Notebooks  
 
+<<<<<<< HEAD
 This is a collection of [IPython](http://ipython.org/)/[Jupyter](https://jupyter.org/) 
 notebooks intended to train the reader on different Spark concepts, from basic 
 to advanced, by using the **Python** language.  
+=======
+This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) notebooks intended to train the reader
+on different Spark concepts, from basic to advanced, by using the Python
+language.  
+>>>>>>> ee9972a079ee11dd8c8d08cc0cb72f07d1e3d28a
+
+If your are interested in being introduce to some basic Data Science
+Engineering, you might find [these series of tutorials](https://github.com/jadianes/data-science-your-way)
+interesting. There we explain different concepts and applications 
+using Python and R.  
 
 ## Instructions  
 
 A good way of using these notebooks is by first cloning the repo, and then 
-starting your own [IPython notebook](http://ipython.org/notebook.html) in 
+starting your own [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) in 
 **pySpark mode**. For example, if we have a *standalone* Spark installation
 running in our `localhost` with a maximum of 6Gb per node assigned to IPython:  
 
@@ -83,9 +94,9 @@ Use of tree-based methods and how they help explaining models and
 In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
 
-### MLlib: Clustering  
+### [MLlib: Clustering and Dimensionality Reduction](https://github.com/jadianes/spark-py-notebooks/blob/master/nb11-clustering/nb11-clustering.ipnb)    
 
-K-means clustering for exploratory data analysis and network attack detection.  
+K-means clustering and PCA for exploratory data analysis.  
 
 ### Streaming: basics  
 
