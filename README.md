@@ -1,14 +1,8 @@
 # Spark Python Notebooks  
 
-<<<<<<< HEAD
-This is a collection of [IPython](http://ipython.org/)/[Jupyter](https://jupyter.org/) 
-notebooks intended to train the reader on different Spark concepts, from basic 
-to advanced, by using the **Python** language.  
-=======
-This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) notebooks intended to train the reader
-on different Spark concepts, from basic to advanced, by using the Python
-language.  
->>>>>>> ee9972a079ee11dd8c8d08cc0cb72f07d1e3d28a
+This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) 
+notebooks intended to train the reader on different [Apache Spark](http://spark.apache.org/) concepts, from 
+basic to advanced, by using the **Python** language.  
 
 If your are interested in being introduce to some basic Data Science
 Engineering, you might find [these series of tutorials](https://github.com/jadianes/data-science-your-way)
