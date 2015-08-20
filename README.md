@@ -88,6 +88,9 @@ Use of tree-based methods and how they help explaining models and
 In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL `DataFrame` abstraction to perform a more structured exploratory data analysis.  
 
+### [MLlib: Clustering and Dimensionality Reduction](https://github.com/jadianes/spark-py-notebooks/blob/master/nb11-clustering/nb11-clustering.ipnb)    
+
+K-means clustering and PCA for exploratory data analysis.  
 
 ## Applications  
 
