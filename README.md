@@ -93,7 +93,7 @@ Spark's SQL `DataFrame` abstraction to perform a more structured exploratory dat
 
 Beyond the basics. Close to real-world applications using Spark and other technologies.  
 
-### [An on-line movie recommendation service using Spark & Flask](https://github.com/jadianes/spark-py-notebooks/tree/master/movie-lens-recommender)  
+### [An on-line movie recommendation service using Spark & Flask](https://github.com/jadianes/spark-movie-lens)  
 
 A two part tutorial + Python scripts to run your own scalable movie recommendation service using Spark and Flask.  
 
