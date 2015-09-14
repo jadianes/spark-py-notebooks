@@ -16,7 +16,7 @@ starting your own [IPython notebook](http://ipython.org/notebook.html)/[Jupyter]
 **pySpark mode**. For example, if we have a *standalone* Spark installation
 running in our `localhost` with a maximum of 6Gb per node assigned to IPython:  
 
-    MASTER="spark://127.0.0.1:7077" SPARK_EXECUTOR_MEMORY="6G" IPYTHON_OPTS="notebook --pylab inline" ~/spark-1.3.1-bin-hadoop2.6/bin/pyspark
+    MASTER="spark://127.0.0.1:7077" SPARK_EXECUTOR_MEMORY="6G" IPYTHON_OPTS="notebook --pylab inline" ~/spark-1.5.0-bin-hadoop2.6/bin/pyspark
 
 Notice that the path to the `pyspark` command will depend on your specific 
 installation. So as requirement, you need to have
