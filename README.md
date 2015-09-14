@@ -97,7 +97,7 @@ Beyond the basics. Close to real-world applications using Spark and other techno
 
 Same tech stack this time with an AngularJS client app.  
 
-### [An on-line movie recommendation web service](https://github.com/jadianes/spark-py-notebooks)  
+### [An on-line movie recommendation web service](https://github.com/jadianes/spark-movie-lens)  
 
 This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Most of the code in the first part, about how to use ALS with the public MovieLens dataset, comes from my solution to one of the exercises proposed in the [CS100.1x Introduction to Big Data with Apache Spark by Anthony D. Joseph on edX](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x), that is also [**publicly available since 2014 at Spark Summit**](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html). 
 
