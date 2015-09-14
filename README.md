@@ -99,9 +99,9 @@ Same tech stack this time with an AngularJS client app.
 
 ### [An on-line movie recommendation web service](https://github.com/jadianes/spark-py-notebooks)  
 
-This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Most of the code in this first part, about how to use ALS with the public MovieLens dataset, comes from my solution to one of the exercises proposed in the [CS100.1x Introduction to Big Data with Apache Spark by Anthony D. Joseph on edX](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x), that is also [**publicly available since 2014 at Spark Summit**](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html) . There I've added with minor modifications to use a larger dataset and also code about how to store and reload the model for later use. 
+This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Most of the code in the first part, about how to use ALS with the public MovieLens dataset, comes from my solution to one of the exercises proposed in the [CS100.1x Introduction to Big Data with Apache Spark by Anthony D. Joseph on edX](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x), that is also [**publicly available since 2014 at Spark Summit**](https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html). 
 
-On top of that we build a Flask web service so the recommender can be use to provide movie recommendations on-line.  
+There I've added with minor modifications to use a larger dataset and also code about how to store and reload the model for later use. On top of that we build a Flask web service so the recommender can be use to provide movie recommendations on-line.  
 
 ### [KDD Cup 1999](https://github.com/jadianes/kdd-cup-99-spark)  
 
