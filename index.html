@@ -29,13 +29,13 @@
       </header>
       <section>
         <h1>
-<a id="spark-ipython-notebooks" class="anchor" href="#spark-ipython-notebooks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Spark IPython Notebooks</h1>
+<a id="spark-python-notebooks" class="anchor" href="#spark-python-notebooks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Spark Python Notebooks</h1>
 
-<p>This is a collection of IPython notebooks intended to train the reader
-on different Spark concepts, from basic to advanced, by using the Python
-language.  </p>
+<p>This is a collection of <a href="http://ipython.org/notebook.html">IPython notebook</a>/<a href="https://jupyter.org/">Jupyter</a> 
+notebooks intended to train the reader on different <a href="http://spark.apache.org/">Apache Spark</a> concepts, from 
+basic to advanced, by using the <strong>Python</strong> language.  </p>
 
-<p>If your are interested in being introduce to some basic Data Science
+<p>If Python is not your language, and it is R, you may want to have a look at our <a href="https://github.com/jadianes/spark-r-notebooks">R on Apache Spark (SparkR) notebooks</a> instead. Additionally, if your are interested in being introduced to some basic Data Science
 Engineering, you might find <a href="https://github.com/jadianes/data-science-your-way">these series of tutorials</a>
 interesting. There we explain different concepts and applications 
 using Python and R.  </p>
@@ -44,11 +44,11 @@ using Python and R.  </p>
 <a id="instructions" class="anchor" href="#instructions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Instructions</h2>
 
 <p>A good way of using these notebooks is by first cloning the repo, and then 
-starting your own <a href="http://ipython.org/notebook.html">IPython notebook</a> in 
+starting your own <a href="http://ipython.org/notebook.html">IPython notebook</a>/<a href="https://jupyter.org/">Jupyter</a> in 
 <strong>pySpark mode</strong>. For example, if we have a <em>standalone</em> Spark installation
 running in our <code>localhost</code> with a maximum of 6Gb per node assigned to IPython:  </p>
 
-<pre><code>MASTER="spark://127.0.0.1:7077" SPARK_EXECUTOR_MEMORY="6G" IPYTHON_OPTS="notebook --pylab inline" ~/spark-1.3.1-bin-hadoop2.6/bin/pyspark
+<pre><code>MASTER="spark://127.0.0.1:7077" SPARK_EXECUTOR_MEMORY="6G" IPYTHON_OPTS="notebook --pylab inline" ~/spark-1.5.0-bin-hadoop2.6/bin/pyspark
 </code></pre>
 
 <p>Notice that the path to the <code>pyspark</code> command will depend on your specific 
@@ -63,7 +63,8 @@ calling IPython/pySpark.   </p>
 <h2>
 <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>Datasets</h2>
 
-<p>We will be using datasets from the <a href="http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html">KDD Cup 1999</a>.</p>
+<p>We will be using datasets from the <a href="http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html">KDD Cup 1999</a>. The results 
+of this competition can be found <a href="http://cseweb.ucsd.edu/%7Eelkan/clresults.html">here</a>.  </p>
 
 <h2>
 <a id="references" class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References</h2>
@@ -137,7 +138,7 @@ Application of model selection techniques using correlation matrix and Hypothesi
 <a id="mllib-decision-trees" class="anchor" href="#mllib-decision-trees" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb9-mllib-trees/nb9-mllib-trees.ipynb">MLlib: Decision Trees</a>
 </h3>
 
-<p>Use of three-based methods and how they help explaining models and
+<p>Use of tree-based methods and how they help explaining models and
  feature selection.  </p>
 
 <h3>
@@ -147,37 +148,24 @@ Application of model selection techniques using correlation matrix and Hypothesi
 <p>In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL <code>DataFrame</code> abstraction to perform a more structured exploratory data analysis.  </p>
 
-<h3>
-<a id="mllib-clustering" class="anchor" href="#mllib-clustering" aria-hidden="true"><span class="octicon octicon-link"></span></a>MLlib: Clustering</h3>
-
-<p>K-means clustering for exploratory data analysis and network attack detection.  </p>
-
-<h3>
-<a id="streaming-basics" class="anchor" href="#streaming-basics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Streaming: basics</h3>
-
-<p>Basics of Spark streaming API.  </p>
-
-<h3>
-<a id="streaming-usage-with-mllib" class="anchor" href="#streaming-usage-with-mllib" aria-hidden="true"><span class="octicon octicon-link"></span></a>Streaming: usage with MLlib</h3>
-
-<p>Usage of Spark streaming API together with MLlib (e.g. incremental data clustering).  </p>
-
 <h2>
 <a id="applications" class="anchor" href="#applications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Applications</h2>
 
 <p>Beyond the basics. Close to real-world applications using Spark and other technologies.  </p>
 
 <h3>
-<a id="an-on-line-movie-recommendation-service-using-spark--flask" class="anchor" href="#an-on-line-movie-recommendation-service-using-spark--flask" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-movie-lens">An on-line movie recommendation service using Spark &amp; Flask</a>
-</h3>
-
-<p>A two part tutorial + Python scripts to run your own scalable movie recommendation service using Spark and Flask.  </p>
-
-<h3>
 <a id="olssen-on-line-spectral-search-engine-for-proteomics" class="anchor" href="#olssen-on-line-spectral-search-engine-for-proteomics" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://olssen.github.io/">Olssen: On-line Spectral Search ENgine for proteomics</a>
 </h3>
 
 <p>Same tech stack this time with an AngularJS client app.  </p>
+
+<h3>
+<a id="an-on-line-movie-recommendation-web-service" class="anchor" href="#an-on-line-movie-recommendation-web-service" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-movie-lens">An on-line movie recommendation web service</a>
+</h3>
+
+<p>This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Most of the code in the first part, about how to use ALS with the public MovieLens dataset, comes from my solution to one of the exercises proposed in the <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">CS100.1x Introduction to Big Data with Apache Spark by Anthony D. Joseph on edX</a>, that is also <a href="https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html"><strong>publicly available since 2014 at Spark Summit</strong></a>. </p>
+
+<p>There I've added with minor modifications to use a larger dataset and also code about how to store and reload the model for later use. On top of that we build a Flask web service so the recommender can be use to provide movie recommendations on-line.  </p>
 
 <h3>
 <a id="kdd-cup-1999" class="anchor" href="#kdd-cup-1999" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/kdd-cup-99-spark">KDD Cup 1999</a>
