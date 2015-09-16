@@ -4,7 +4,7 @@ This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Ju
 notebooks intended to train the reader on different [Apache Spark](http://spark.apache.org/) concepts, from 
 basic to advanced, by using the **Python** language.  
 
-If your are interested in being introduce to some basic Data Science
+If Python is not your language, and it is R, you may want to have a look at our [R on Apache Spark (SparkR) notebooks](https://github.com/jadianes/spark-r-notebooks) instead. Additionally, if your are interested in being introduced to some basic Data Science
 Engineering, you might find [these series of tutorials](https://github.com/jadianes/data-science-your-way)
 interesting. There we explain different concepts and applications 
 using Python and R.  
