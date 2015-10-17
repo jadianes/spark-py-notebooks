@@ -109,3 +109,7 @@ My try using Spark with this classic dataset and Knowledge Discovery competition
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/spark-py-notebooks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
