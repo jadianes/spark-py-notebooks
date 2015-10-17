@@ -1,3 +1,5 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/spark-py-notebooks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 # Spark Python Notebooks  
 
 This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) 
@@ -106,10 +108,4 @@ There I've added with minor modifications to use a larger dataset and also code 
 ### [KDD Cup 1999](https://github.com/jadianes/kdd-cup-99-spark)  
 
 My try using Spark with this classic dataset and Knowledge Discovery competition.  
-
-
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/spark-py-notebooks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
