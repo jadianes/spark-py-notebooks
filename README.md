@@ -1,5 +1,3 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jadianes/spark-py-notebooks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 # Spark Python Notebooks  
 
 This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) 
