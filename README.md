@@ -95,7 +95,7 @@ Spark's SQL `DataFrame` abstraction to perform a more structured exploratory dat
 
 Beyond the basics. Close to real-world applications using Spark and other technologies.  
 
-### [Olssen: On-line Spectral Search ENgine for proteomics](http://olssen.github.io/)  
+### [Olssen: On-line Spectral Search ENgine for proteomics](https://github.com/jadianes/olssen)  
 
 Same tech stack this time with an AngularJS client app.  
 
