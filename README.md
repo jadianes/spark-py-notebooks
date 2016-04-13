@@ -25,7 +25,7 @@ installation. So as requirement, you need to have
 [Spark installed](https://spark.apache.org/docs/latest/index.html) in 
 the same machine you are going to start the `IPython notebook` server.     
 
-For more Spark options see [here](https://spark.apache.org/docs/latest/spark-standalone.html). In general it works the rule of passign options 
+For more Spark options see [here](https://spark.apache.org/docs/latest/spark-standalone.html). In general it works the rule of passing options
 described in the form `spark.executor.memory` as `SPARK_EXECUTOR_MEMORY` when
 calling IPython/pySpark.   
  
