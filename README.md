@@ -109,11 +109,11 @@ There I've added with minor modifications to use a larger dataset and also code 
 
 My try using Spark with this classic dataset and Knowledge Discovery competition.  
 
-## contributing
+## Contributing
 
 Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/jadianes/spark-py-notebooks/issues).
 
-## contact-info
+## Contact  
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -122,7 +122,7 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [jadianes](https://www.linkedin.com/in/jadianes)
 * Website: [jadianes.me](http://jadianes.me)
 
-## license
+## License
 
 This repository contains a variety of content; some developed by Jose A. Dianes, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
