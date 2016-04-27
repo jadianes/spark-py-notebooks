@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -29,7 +29,9 @@
       </header>
       <section>
         <h1>
-<a id="spark-python-notebooks" class="anchor" href="#spark-python-notebooks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Spark Python Notebooks</h1>
+<a id="spark-python-notebooks" class="anchor" href="#spark-python-notebooks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Spark Python Notebooks</h1>
+
+<p><a href="https://gitter.im/jadianes/spark-py-notebooks?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/jadianes/spark-py-notebooks"></a></p>
 
 <p>This is a collection of <a href="http://ipython.org/notebook.html">IPython notebook</a>/<a href="https://jupyter.org/">Jupyter</a> 
 notebooks intended to train the reader on different <a href="http://spark.apache.org/">Apache Spark</a> concepts, from 
@@ -41,7 +43,7 @@ interesting. There we explain different concepts and applications
 using Python and R.  </p>
 
 <h2>
-<a id="instructions" class="anchor" href="#instructions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Instructions</h2>
+<a id="instructions" class="anchor" href="#instructions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Instructions</h2>
 
 <p>A good way of using these notebooks is by first cloning the repo, and then 
 starting your own <a href="http://ipython.org/notebook.html">IPython notebook</a>/<a href="https://jupyter.org/">Jupyter</a> in 
@@ -56,18 +58,18 @@ installation. So as requirement, you need to have
 <a href="https://spark.apache.org/docs/latest/index.html">Spark installed</a> in 
 the same machine you are going to start the <code>IPython notebook</code> server.     </p>
 
-<p>For more Spark options see <a href="https://spark.apache.org/docs/latest/spark-standalone.html">here</a>. In general it works the rule of passign options 
+<p>For more Spark options see <a href="https://spark.apache.org/docs/latest/spark-standalone.html">here</a>. In general it works the rule of passing options
 described in the form <code>spark.executor.memory</code> as <code>SPARK_EXECUTOR_MEMORY</code> when
 calling IPython/pySpark.   </p>
 
 <h2>
-<a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>Datasets</h2>
+<a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Datasets</h2>
 
 <p>We will be using datasets from the <a href="http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html">KDD Cup 1999</a>. The results 
 of this competition can be found <a href="http://cseweb.ucsd.edu/%7Eelkan/clresults.html">here</a>.  </p>
 
 <h2>
-<a id="references" class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References</h2>
+<a id="references" class="anchor" href="#references" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>References</h2>
 
 <p>The reference book for these and other Spark related topics is:  </p>
 
@@ -78,89 +80,89 @@ of this competition can be found <a href="http://cseweb.ucsd.edu/%7Eelkan/clresu
 </ul>
 
 <h2>
-<a id="notebooks" class="anchor" href="#notebooks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Notebooks</h2>
+<a id="notebooks" class="anchor" href="#notebooks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Notebooks</h2>
 
 <p>The following notebooks can be examined individually, although there is a more
 or less linear 'story' when followed in sequence. By using the same dataset
 they try to solve a related set of tasks with it.  </p>
 
 <h3>
-<a id="rdd-creation" class="anchor" href="#rdd-creation" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb1-rdd-creation/nb1-rdd-creation.ipynb">RDD creation</a>
+<a id="rdd-creation" class="anchor" href="#rdd-creation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb1-rdd-creation/nb1-rdd-creation.ipynb">RDD creation</a>
 </h3>
 
 <p>About reading files and parallelize.  </p>
 
 <h3>
-<a id="rdds-basics" class="anchor" href="#rdds-basics" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb2-rdd-basics/nb2-rdd-basics.ipynb">RDDs basics</a>
+<a id="rdds-basics" class="anchor" href="#rdds-basics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb2-rdd-basics/nb2-rdd-basics.ipynb">RDDs basics</a>
 </h3>
 
 <p>A look at <code>map</code>, <code>filter</code>, and <code>collect</code>.  </p>
 
 <h3>
-<a id="sampling-rdds" class="anchor" href="#sampling-rdds" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb3-rdd-sampling/nb3-rdd-sampling.ipynb">Sampling RDDs</a>
+<a id="sampling-rdds" class="anchor" href="#sampling-rdds" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb3-rdd-sampling/nb3-rdd-sampling.ipynb">Sampling RDDs</a>
 </h3>
 
 <p>RDD sampling methods explained.    </p>
 
 <h3>
-<a id="rdd-set-operations" class="anchor" href="#rdd-set-operations" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb4-rdd-set/nb4-rdd-set.ipynb">RDD set operations</a>
+<a id="rdd-set-operations" class="anchor" href="#rdd-set-operations" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb4-rdd-set/nb4-rdd-set.ipynb">RDD set operations</a>
 </h3>
 
 <p>Brief introduction to some of the RDD pseudo-set operations.  </p>
 
 <h3>
-<a id="data-aggregations-on-rdds" class="anchor" href="#data-aggregations-on-rdds" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb">Data aggregations on RDDs</a>
+<a id="data-aggregations-on-rdds" class="anchor" href="#data-aggregations-on-rdds" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb5-rdd-aggregations/nb5-rdd-aggregations.ipynb">Data aggregations on RDDs</a>
 </h3>
 
 <p>RDD actions <code>reduce</code>, <code>fold</code>, and <code>aggregate</code>.   </p>
 
 <h3>
-<a id="working-with-keyvalue-pair-rdds" class="anchor" href="#working-with-keyvalue-pair-rdds" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb6-rdd-key-value/nb6-rdd-key-value.ipynb">Working with key/value pair RDDs</a>
+<a id="working-with-keyvalue-pair-rdds" class="anchor" href="#working-with-keyvalue-pair-rdds" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb6-rdd-key-value/nb6-rdd-key-value.ipynb">Working with key/value pair RDDs</a>
 </h3>
 
 <p>How to deal with key/value pairs in order to aggregate and explore data.  </p>
 
 <h3>
-<a id="mllib-basic-statistics-and-exploratory-data-analysis" class="anchor" href="#mllib-basic-statistics-and-exploratory-data-analysis" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb7-mllib-statistics/nb7-mllib-statistics.ipynb">MLlib: Basic Statistics and Exploratory Data Analysis</a>
+<a id="mllib-basic-statistics-and-exploratory-data-analysis" class="anchor" href="#mllib-basic-statistics-and-exploratory-data-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb7-mllib-statistics/nb7-mllib-statistics.ipynb">MLlib: Basic Statistics and Exploratory Data Analysis</a>
 </h3>
 
 <p>A notebook introducing Local Vector types, basic statistics 
 in MLlib for Exploratory Data Analysis and model selection.  </p>
 
 <h3>
-<a id="mllib-logistic-regression" class="anchor" href="#mllib-logistic-regression" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb8-mllib-logit/nb8-mllib-logit.ipynb">MLlib: Logistic Regression</a>
+<a id="mllib-logistic-regression" class="anchor" href="#mllib-logistic-regression" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb8-mllib-logit/nb8-mllib-logit.ipynb">MLlib: Logistic Regression</a>
 </h3>
 
 <p>Labeled points and Logistic Regression classification of network attacks in MLlib.
 Application of model selection techniques using correlation matrix and Hypothesis Testing.    </p>
 
 <h3>
-<a id="mllib-decision-trees" class="anchor" href="#mllib-decision-trees" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb9-mllib-trees/nb9-mllib-trees.ipynb">MLlib: Decision Trees</a>
+<a id="mllib-decision-trees" class="anchor" href="#mllib-decision-trees" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb9-mllib-trees/nb9-mllib-trees.ipynb">MLlib: Decision Trees</a>
 </h3>
 
 <p>Use of tree-based methods and how they help explaining models and
  feature selection.  </p>
 
 <h3>
-<a id="spark-sql-structured-processing-for-data-analysis" class="anchor" href="#spark-sql-structured-processing-for-data-analysis" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb10-sql-dataframes/nb10-sql-dataframes.ipynb">Spark SQL: structured processing for Data Analysis</a>
+<a id="spark-sql-structured-processing-for-data-analysis" class="anchor" href="#spark-sql-structured-processing-for-data-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-py-notebooks/blob/master/nb10-sql-dataframes/nb10-sql-dataframes.ipynb">Spark SQL: structured processing for Data Analysis</a>
 </h3>
 
 <p>In this notebook a schema is inferred for our network interactions dataset. Based on that, we use
 Spark's SQL <code>DataFrame</code> abstraction to perform a more structured exploratory data analysis.  </p>
 
 <h2>
-<a id="applications" class="anchor" href="#applications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Applications</h2>
+<a id="applications" class="anchor" href="#applications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Applications</h2>
 
 <p>Beyond the basics. Close to real-world applications using Spark and other technologies.  </p>
 
 <h3>
-<a id="olssen-on-line-spectral-search-engine-for-proteomics" class="anchor" href="#olssen-on-line-spectral-search-engine-for-proteomics" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://olssen.github.io/">Olssen: On-line Spectral Search ENgine for proteomics</a>
+<a id="olssen-on-line-spectral-search-engine-for-proteomics" class="anchor" href="#olssen-on-line-spectral-search-engine-for-proteomics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/olssen">Olssen: On-line Spectral Search ENgine for proteomics</a>
 </h3>
 
 <p>Same tech stack this time with an AngularJS client app.  </p>
 
 <h3>
-<a id="an-on-line-movie-recommendation-web-service" class="anchor" href="#an-on-line-movie-recommendation-web-service" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-movie-lens">An on-line movie recommendation web service</a>
+<a id="an-on-line-movie-recommendation-web-service" class="anchor" href="#an-on-line-movie-recommendation-web-service" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/spark-movie-lens">An on-line movie recommendation web service</a>
 </h3>
 
 <p>This tutorial can be used independently to build a movie recommender model based on the MovieLens dataset. Most of the code in the first part, about how to use ALS with the public MovieLens dataset, comes from my solution to one of the exercises proposed in the <a href="https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x">CS100.1x Introduction to Big Data with Apache Spark by Anthony D. Joseph on edX</a>, that is also <a href="https://databricks-training.s3.amazonaws.com/movie-recommendation-with-mllib.html"><strong>publicly available since 2014 at Spark Summit</strong></a>. </p>
@@ -168,10 +170,53 @@ Spark's SQL <code>DataFrame</code> abstraction to perform a more structured expl
 <p>There I've added with minor modifications to use a larger dataset and also code about how to store and reload the model for later use. On top of that we build a Flask web service so the recommender can be use to provide movie recommendations on-line.  </p>
 
 <h3>
-<a id="kdd-cup-1999" class="anchor" href="#kdd-cup-1999" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/kdd-cup-99-spark">KDD Cup 1999</a>
+<a id="kdd-cup-1999" class="anchor" href="#kdd-cup-1999" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/jadianes/kdd-cup-99-spark">KDD Cup 1999</a>
 </h3>
 
 <p>My try using Spark with this classic dataset and Knowledge Discovery competition.  </p>
+
+<h2>
+<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contributing</h2>
+
+<p>Contributions are welcome!  For bug reports or requests please <a href="https://github.com/jadianes/spark-py-notebooks/issues">submit an issue</a>.</p>
+
+<h2>
+<a id="contact" class="anchor" href="#contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contact</h2>
+
+<p>Feel free to contact me to discuss any issues, questions, or comments.</p>
+
+<ul>
+<li>Twitter: <a href="https://twitter.com/ja_dianes">@ja_dianes</a>
+</li>
+<li>GitHub: <a href="https://github.com/jadianes">jadianes</a>
+</li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/jadianes">jadianes</a>
+</li>
+<li>Website: <a href="http://jadianes.me">jadianes.me</a>
+</li>
+</ul>
+
+<h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h2>
+
+<p>This repository contains a variety of content; some developed by Jose A. Dianes, and some from third-parties.  The third-party content is distributed under the license provided by those parties.</p>
+
+<p>The content developed by Jose A. Dianes is distributed under the following license:</p>
+
+<pre><code>Copyright 2016 Jose A Dianes
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+</code></pre>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/jadianes">jadianes</a></p>
