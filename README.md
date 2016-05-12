@@ -1,6 +1,7 @@
 # Spark Python Notebooks  
 
 [![Join the chat at https://gitter.im/jadianes/spark-py-notebooks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jadianes/spark-py-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6YPXZWNA2KSE)  
 
 This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) 
 notebooks intended to train the reader on different [Apache Spark](http://spark.apache.org/) concepts, from 
