@@ -145,4 +145,5 @@ The content developed by Jose A. Dianes is distributed under the following licen
 
 ## Donate  
 
-If you find these tutorials useful then help me keeping them updated ;)   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6YPXZWNA2KSE)  
+If you find these tutorials useful then help me keeping them updated ;)  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V6YPXZWNA2KSE)  
