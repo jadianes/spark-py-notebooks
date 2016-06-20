@@ -1,7 +1,6 @@
 # Spark Python Notebooks  
 
 [![Join the chat at https://gitter.im/jadianes/spark-py-notebooks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jadianes/spark-py-notebooks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJ54869W5H3KJ)  
 
 This is a collection of [IPython notebook](http://ipython.org/notebook.html)/[Jupyter](https://jupyter.org/) 
 notebooks intended to train the reader on different [Apache Spark](http://spark.apache.org/) concepts, from 
@@ -142,9 +141,3 @@ The content developed by Jose A. Dianes is distributed under the following licen
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-## Donate  
-
-If you find these tutorials useful then you can help me to keep them updated ;)  
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJ54869W5H3KJ)  
