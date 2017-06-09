@@ -27,8 +27,13 @@ the same machine you are going to start the `IPython notebook` server.
 
 For more Spark options see [here](https://spark.apache.org/docs/latest/spark-standalone.html). In general it works the rule of passing options
 described in the form `spark.executor.memory` as `SPARK_EXECUTOR_MEMORY` when
-calling IPython/pySpark.   
- 
+calling IPython/pySpark.
+
+Revision, 5/19/2017
+starting with Spark 2.0, the needed environment variables are:
+
+    PYSPARK_DRIVER_PYTHON="jupyter" PYSPARK_DRIVER_PYTHON_OPTS="notebook" pyspark
+
 ## Datasets  
 
 We will be using datasets from the [KDD Cup 1999](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html). The results 
